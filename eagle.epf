@@ -7,6 +7,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/Volumes/ELECTRONICS/eagle/lbr/JCM.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/19inch.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/40xx.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/41xx.lbr"
@@ -329,12 +330,12 @@ UsedLibrary="/Applications/EAGLE/lbr/xilinx-xc9.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/xilinx-xcv.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/zetex.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/zilog.lbr"
+UsedLibrary="/Volumes/ELECTRONICS/eagle/lbr/sparkfun-SparkFun-Eagle-Library-f115009/SparkFun.lbr"
 UsedLibrary="MultiWiiArduino.lbr"
-UsedLibrary="/Volumes/ELECTRONICS/eagle/lbr/sparkfun-SparkFun-Eagle-Library-158ce6f/SparkFun.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="183 278 1147 740"
+Loc="540 284 1139 683"
 State=2
 Number=0
 
