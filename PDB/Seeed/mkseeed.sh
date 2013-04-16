@@ -1,0 +1,48 @@
+cp ../gerbers/* .
+mv MultiWiiChassis_hex_power.top MultiWiiChassis_hex_power.GTL
+mv MultiWiiChassis_hex_power.bot MultiWiiChassis_hex_power.GBL
+mv MultiWiiChassis_hex_power.smt MultiWiiChassis_hex_power.GTS
+mv MultiWiiChassis_hex_power.smb MultiWiiChassis_hex_power.GBS
+mv MultiWiiChassis_hex_power.tslk MultiWiiChassis_hex_power.GTO
+mv MultiWiiChassis_hex_power.bslk MultiWiiChassis_hex_power.GBO
+zip MultiWiiChassis_hex_power-v2-Seeed.zip  MultiWiiChassis_hex_power.???
+
+mv MultiWiiChassis_hexlite_power.top MultiWiiChassis_hexlite_power.GTL
+mv MultiWiiChassis_hexlite_power.bot MultiWiiChassis_hexlite_power.GBL
+mv MultiWiiChassis_hexlite_power.smt MultiWiiChassis_hexlite_power.GTS
+mv MultiWiiChassis_hexlite_power.smb MultiWiiChassis_hexlite_power.GBS
+mv MultiWiiChassis_hexlite_power.tslk MultiWiiChassis_hexlite_power.GTO
+mv MultiWiiChassis_hexlite_power.bslk MultiWiiChassis_hexlite_power.GBO
+zip MultiWiiChassis_hexlite_power-v2-Seeed.zip  MultiWiiChassis_hexlite_power.???
+
+mv MultiWiiChassis_hexmini_power.top MultiWiiChassis_hexmini_power.GTL
+mv MultiWiiChassis_hexmini_power.bot MultiWiiChassis_hexmini_power.GBL
+mv MultiWiiChassis_hexmini_power.smt MultiWiiChassis_hexmini_power.GTS
+mv MultiWiiChassis_hexmini_power.smb MultiWiiChassis_hexmini_power.GBS
+mv MultiWiiChassis_hexmini_power.tslk MultiWiiChassis_hexmini_power.GTO
+mv MultiWiiChassis_hexmini_power.bslk MultiWiiChassis_hexmini_power.GBO
+zip MultiWiiChassis_nanohex_power-v2-Seeed.zip  MultiWiiChassis_hexmini_power.???
+
+mv MultiWiiChassis_quad_power.top MultiWiiChassis_quad_power.GTL
+mv MultiWiiChassis_quad_power.bot MultiWiiChassis_quad_power.GBL
+mv MultiWiiChassis_quad_power.smt MultiWiiChassis_quad_power.GTS
+mv MultiWiiChassis_quad_power.smb MultiWiiChassis_quad_power.GBS
+mv MultiWiiChassis_quad_power.tslk MultiWiiChassis_quad_power.GTO
+mv MultiWiiChassis_quad_power.bslk MultiWiiChassis_quad_power.GBO
+zip MultiWiiChassis_quad_power-v2-Seeed.zip  MultiWiiChassis_quad_power.???
+
+mv MultiWiiChassis_quadlite_power.top MultiWiiChassis_quadlite_power.GTL
+mv MultiWiiChassis_quadlite_power.bot MultiWiiChassis_quadlite_power.GBL
+mv MultiWiiChassis_quadlite_power.smt MultiWiiChassis_quadlite_power.GTS
+mv MultiWiiChassis_quadlite_power.smb MultiWiiChassis_quadlite_power.GBS
+mv MultiWiiChassis_quadlite_power.tslk MultiWiiChassis_quadlite_power.GTO
+mv MultiWiiChassis_quadlite_power.bslk MultiWiiChassis_quadlite_power.GBO
+zip MultiWiiChassis_quadlite_power-v2-Seeed.zip  MultiWiiChassis_quadlite_power.???
+
+mv MultiWiiChassis_quadmini_power.top MultiWiiChassis_quadmini_power.GTL
+mv MultiWiiChassis_quadmini_power.bot MultiWiiChassis_quadmini_power.GBL
+mv MultiWiiChassis_quadmini_power.smt MultiWiiChassis_quadmini_power.GTS
+mv MultiWiiChassis_quadmini_power.smb MultiWiiChassis_quadmini_power.GBS
+mv MultiWiiChassis_quadmini_power.tslk MultiWiiChassis_quadmini_power.GTO
+mv MultiWiiChassis_quadmini_power.bslk MultiWiiChassis_quadmini_power.GBO
+zip MultiWiiChassis_nanoquad_power-v2-Seeed.zip  MultiWiiChassis_quadmini_power.???

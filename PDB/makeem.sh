@@ -1,0 +1,10 @@
+cp MultiWiiChassis_hex_power.sch MultiWiiChassis_hexlite_power.sch
+cp MultiWiiChassis_hex_power.sch MultiWiiChassis_hexmini_power.sch
+cp MultiWiiChassis_power.sch MultiWiiChassis_quadlite_power.sch
+cp MultiWiiChassis_power.sch MultiWiiChassis_quadmini_power.sch
+mv MultiWiiChassis_power.sch MultiWiiChassis_quad_power.sch
+cp MultiWiiChassis_hex_power.brd MultiWiiChassis_hexlite_power.brd
+cp MultiWiiChassis_hex_power.brd MultiWiiChassis_hexmini_power.brd
+cp MultiWiiChassis_power.brd MultiWiiChassis_quadlite_power.brd
+cp MultiWiiChassis_power.brd MultiWiiChassis_quadmini_power.brd
+mv MultiWiiChassis_power.brd MultiWiiChassis_quad_power.brd
